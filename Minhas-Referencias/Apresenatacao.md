@@ -1,8 +1,4 @@
-# P E R F I L P E S S O A L :desktop_computer: 
-
-Sou proativo, sei trabalhar sobre pressão, gosto de desafios e tenho habilidades de comunicação. Trabalhei com vendas, relações públicas, Gestão de Pessoas, Treinamento de Funcionários, na Área de Segurança e Monitoramento, digitador de documentários, supervisor e chefe de equipe.
-
-Na área de programação fiz alguns cursos cursos:
+# Meus Cursos :desktop_computer: 
 
 ## Alura >>>
 
